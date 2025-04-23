@@ -91,7 +91,7 @@ export default function Hero() {
           >
             <div className="profile-image-container w-72 h-72 sm:w-96 sm:h-96">
               <Image
-                src="/profile.jpg"
+                src="/1695356749402.jpg"
                 alt="Kishan Kumar"
                 width={384}
                 height={384}
